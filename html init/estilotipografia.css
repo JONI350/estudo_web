@@ -1,0 +1,15 @@
+h1{
+	color:#ff6600;
+	letter-spacing: -1px; 
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: 1px 1px black;
+}
+
+p{
+	width: 650px;
+	text-indent: 50px;
+	text-align: justify;
+	font-size: 18px;
+	font-family: verdana, arial,sans-serif;
+}
